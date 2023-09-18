@@ -1,0 +1,2 @@
+# webapp
+src/main/webappのindex.htmlファイルを開くと実際に作ったアプリケーションのwebページに移動することができる
